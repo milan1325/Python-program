@@ -40,5 +40,5 @@ if __name__ == "__main__":
         #     for j in range(320,450):
         #         data[i,j]=170
 
-        image.show()
-        break
+        #image.show()
+        #break
